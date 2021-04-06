@@ -47,12 +47,12 @@ export {
 };
 
 export const AVATAR =
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'; // Temp avatar
+  'https://777blog.oss-cn-shanghai.aliyuncs.com/pic/avatar1.png'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://github.com/yihong0618/running_page' },
-  { text: 'About', link: 'https://github.com/yihong0618/running_page' },
+  { text: 'Blog', link: 'https://hishark777.com' },
+  { text: 'About', link: 'https://hishark777.com/about' },
 ];
 
-const nike = 'rgb(224,237,94)';
+const nike = 'rgb(175,238,238)'; // 224,237,94
 export const MAIN_COLOR = nike;
-export const PROVINCE_FILL_COLOR = '#47b8e0';
+export const PROVINCE_FILL_COLOR = '#47b8e0'; // 47b8e0
