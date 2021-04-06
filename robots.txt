@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yihong.run/sitemap.xml
-Host: https://yihong.run
+Sitemap: https://hishark777.com/sitemap.xml
+Host: https://hishark777.com
