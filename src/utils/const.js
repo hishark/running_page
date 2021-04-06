@@ -53,6 +53,6 @@ export const NAVS = [
   { text: 'About', link: 'https://hishark777.com/about' },
 ];
 
-const nike = 'rgb(175,238,238)'; // 224,237,94
+const nike = 'rgb(255,255,240)'; // 224,237,94 #e0ed5e
 export const MAIN_COLOR = nike;
 export const PROVINCE_FILL_COLOR = '#47b8e0'; // 47b8e0

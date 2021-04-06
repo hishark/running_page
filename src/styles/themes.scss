@@ -141,7 +141,7 @@ $regular: $global-font-family;
 }
 
 .theme-run {
-  @include theme(rgb(224, 237, 94), rgb(26, 26, 26), $regular);
+  @include theme(rgb(255,255,240), rgb(26, 26, 26), $regular);
 }
 
 
