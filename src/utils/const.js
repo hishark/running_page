@@ -14,7 +14,7 @@ const MUNICIPALITY_CITIES_ARR = [
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) =>
-  `我用 App 记录自己跑步 ${yearLength} 年了，下面列表展示的是 ${year} 的数据`;
+  `断断续续跑了 ${yearLength} 年啦，生命在于运动，多跑跑吧～`; // 我用 App 记录自己跑步 ${yearLength} 年了，下面列表展示的是 ${year} 的数据
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Running Journey with ${yearLength} Years, the table shows year ${year} data`;
 
