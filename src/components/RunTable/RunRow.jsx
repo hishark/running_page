@@ -36,7 +36,7 @@ const RunRow = ({ runs, run, locateActivity, runIndex, setRunIndex }) => {
       <td>{distance}</td>
       {pace && <td>{paceParts}</td>}
       <td>{heartRate && heartRate.toFixed(0)}</td>
-      <td className={styles.runDate}>{run.start_date_local}</td>
+      <td className={styles.runDate}>{run.start_date_local.slice(0, 11)}</td>
     </tr>
   );
 };
